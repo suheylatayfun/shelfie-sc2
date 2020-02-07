@@ -1,0 +1,22 @@
+.form-container{
+    width: 600px;
+    border: 1px solid black;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding:30px;
+    box-sizing: border-box;
+    
+    /* align-items: center; */
+}
+.form-image{
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+    margin: auto;
+}
+.button-container{
+    margin-top: 20px;
+
+}

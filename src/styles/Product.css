@@ -1,0 +1,11 @@
+.product_container{
+    width: 500px;
+    border: 1px solid rgb(197, 44, 44);
+    display: flex;
+    margin: 20px auto;
+    
+}
+#product_image{
+    width:250px;
+    height: 200px;
+}
