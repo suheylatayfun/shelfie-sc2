@@ -1,9 +1,15 @@
 .header-container{
     width: 100%;
     height: 100px;
-    background-color: pink;
+    background-color:#ce3a26;
     display: flex;
-    justify-content:space-around;
+    justify-content:space-between;
     align-items: center;
+    color:white;
+    font-size: 2rem;
    
+}
+button{
+    margin-right: 50px;
+    font-size: 20px;
 }
